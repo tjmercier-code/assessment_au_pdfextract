@@ -1,3 +1,4 @@
 streamlit==1.36.0
 pandas==2.2.2
+openpyxl==2.5.8
 PyPDF2==3.0.1
